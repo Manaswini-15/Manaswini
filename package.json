@@ -1,0 +1,11 @@
+{
+    "author":"Bingi Manaswini",
+    "name": "censorify",
+    "version":"0.1.1",
+    "description": "A Sample file to censor a function",
+    "main":"censortext",
+    "dependencies": {},
+    "engines": {
+        "node":"*"
+    }
+}
